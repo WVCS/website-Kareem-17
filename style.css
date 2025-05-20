@@ -7,11 +7,20 @@ body {
     text-shadow: 1px 1px 1px ;
     font-size: 45px;
   }
-  img {
+  #yuh {
   border: 1px solid #ddd;
   border-radius: 5px;
-  padding: 10px;
+  padding: 5px;
   width: 80px;
-  translate: 260px -105px;
+  translate: 300px -105px;
 }
+   #yuh2 {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 5px;
+  width: 80px;
+  translate: -300px -105px;
 }
+  
+}
+
