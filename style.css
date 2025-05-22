@@ -1,5 +1,6 @@
 body {
   background: #fd9d99;
+
   h1{
     color: black;
     text-decoration: overline underline 3px;
@@ -34,13 +35,14 @@ nav {
   top: 0;
   left: 0;
   font-size: 30px;
+  z-index: 100;
 }
 
 li a {
   color: darkred;
   text-decoration: none;
   display: block;
-  padding: 20px 238px;
+  padding: 20px 235px;
   float: left;
 }
 
@@ -48,4 +50,8 @@ li a:hover {
   Background-color: wheat;
   color: black;
   
+}
+
+img {
+  z-index: -100;
 }
