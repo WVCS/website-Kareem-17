@@ -24,3 +24,28 @@ body {
   
 }
 
+
+
+nav {
+  list-style-type: none;
+  width: 100%;
+  background-color: #477;
+  position: fixed;
+  top: 0;
+  left: 0;
+  font-size: 30px;
+}
+
+li a {
+  color: darkred;
+  text-decoration: none;
+  display: block;
+  padding: 20px 238px;
+  float: left;
+}
+
+li a:hover {
+  Background-color: wheat;
+  color: black;
+  
+}
