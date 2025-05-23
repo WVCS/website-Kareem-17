@@ -1,6 +1,6 @@
 body {
   background: #fd9d99;
-
+}
   h1{
     color: black;
     text-decoration: overline underline 3px;
@@ -23,7 +23,10 @@ body {
   translate: -300px -105px;
 }
   
-}
+  #burger1{
+    width: 500px;
+  }
+
 
 
 
